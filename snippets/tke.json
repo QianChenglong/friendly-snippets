@@ -1,0 +1,7 @@
+{
+  "direct access": {
+    "prefix": "direct access",
+    "description": "k8s Service",
+    "body": ["service.cloud.tencent.com/direct-access: \"true\""]
+  }
+}
