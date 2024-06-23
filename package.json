@@ -23,6 +23,12 @@
         "path": "./snippets/license.json"
       },
       {
+        "language": [
+          "fish"
+        ],
+        "path": "./snippets/fish/fish.json"
+      },
+      {
         "language": "c",
         "path": "./snippets/c/c.json"
       },
